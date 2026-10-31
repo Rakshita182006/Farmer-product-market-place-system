@@ -1,0 +1,7 @@
+{
+  "name": "KisanDirect - Farm to Fork Indian Agricultural Marketplace",
+  "description": "Swiggy & Zomato style direct farm-to-consumer delivery app for Indian farmers. Order fresh harvest directly from local kisans in Indian Rupees (₹) with 85% fair farm-gate pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
